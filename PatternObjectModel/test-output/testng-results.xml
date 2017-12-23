@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="71663" started-at="2017-12-20T18:25:45Z" finished-at="2017-12-20T18:26:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="71663" started-at="2017-12-20T18:25:45Z" finished-at="2017-12-20T18:26:56Z">
+      <class name="testcases.DeleteLeadTC">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.DeleteLeadTC@b2c100]" name="beforeSuite" is-config="true" duration-ms="1419" started-at="2017-12-20T23:55:43Z" finished-at="2017-12-20T23:55:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.DeleteLeadTC@b2c100]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-12-20T23:55:45Z" finished-at="2017-12-20T23:55:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.DeleteLeadTC@b2c100]" name="setData" is-config="true" duration-ms="1" started-at="2017-12-20T23:55:45Z" finished-at="2017-12-20T23:55:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.DeleteLeadTC@b2c100]" name="beforeMethod" is-config="true" duration-ms="10338" started-at="2017-12-20T23:55:46Z" finished-at="2017-12-20T23:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="duplicateLeadTC(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.DeleteLeadTC@b2c100]" name="duplicateLeadTC" duration-ms="58668" started-at="2017-12-20T23:55:57Z" data-provider="fetchData" finished-at="2017-12-20T23:56:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[343787]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateLeadTC -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.DeleteLeadTC@b2c100]" name="afterMethod" is-config="true" duration-ms="842" started-at="2017-12-20T23:56:55Z" finished-at="2017-12-20T23:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.DeleteLeadTC@b2c100]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-12-20T23:56:56Z" finished-at="2017-12-20T23:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.DeleteLeadTC@b2c100]" name="afterSuite" is-config="true" duration-ms="1004" started-at="2017-12-20T23:56:56Z" finished-at="2017-12-20T23:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.DeleteLeadTC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
